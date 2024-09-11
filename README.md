@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @franziska135
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Franziska
+
+Currently coding at 42 Vienna, where I’ve been working on a variety of challenging education projects showcased here on GitHub.
+Passionate about problem-solving and striving to reach that flow state in coding.
+This journey is all about deepening my knowledge and diving into the tech world. Have a look around!
+
+🌱 Currently studying C++
+💞️ 
+📫 Reach me at [your preferred contact method]—I'm always up for a chat.
+😄 Pronouns: [your pronouns]
+⚡ Fun fact: When I'm not coding, you might find me exploring on a hike
 
 <!---
 franziska135/franziska135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
