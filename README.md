@@ -5,6 +5,7 @@ Passionate about problem-solving and striving to reach that flow state in coding
 This journey is all about deepening my knowledge and diving into the tech world. Have a look around!
 
 🌱 Currently studying C++,P Python and C
+
 ⚡ Fun fact: When I'm not coding, you might find me climbing or hiking
 
 <!---
