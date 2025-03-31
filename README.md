@@ -6,7 +6,7 @@ This journey is all about deepening my knowledge and diving into the tech world.
 
 🌱 Currently studying C++,P Python and C
 
-⚡ Fun fact: When I'm not coding, you might find me climbing or hiking
+⚡ When I'm not coding, you might find me climbing or hiking
 
 <!---
 franziska135/franziska135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
