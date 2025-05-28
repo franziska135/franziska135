@@ -1,10 +1,10 @@
 👋 Hi, I’m Franziska
 
-Currently coding at 42 Vienna, where I’ve been working on a variety of challenging education projects showcased here on GitHub.
+Currently coding at 42 Vienna, where I’ve been working on a variety of challenging education projects in C, C++ and Bash, showcased here on GitHub.
 Passionate about problem-solving and striving to reach that flow state in coding.
 This journey is all about deepening my knowledge and diving into the tech world. Have a look around!
 
-🌱 Currently studying C++,P Python and C
+🌱 Currently studying Typescript and Python
 
 ⚡ When I'm not coding, you might find me climbing or hiking
 
